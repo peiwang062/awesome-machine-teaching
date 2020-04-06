@@ -15,7 +15,7 @@ This repo is a collection of AWESOME things about machine teaching, including pa
 - Machine teaching: an inverse problem to machine learning and an approach toward optimal education [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewPaper/9487)
 
 ## Machine teaching on computer vision
-- Teaching Categories to Human Learners with Visual Explanations [paper](https://arxiv.org/abs/1802.06924) [Code](https://github.com/macaodha/explain_teach)
+- Teaching Categories to Human Learners with Visual Explanations [paper](https://arxiv.org/abs/1802.06924) [code](https://github.com/macaodha/explain_teach)
 
 ## Teaching algorithms
 - Near-Optimally Teaching the Crowd to Classify [paper](https://arxiv.org/abs/1402.2092)
