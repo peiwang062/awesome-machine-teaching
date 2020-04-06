@@ -28,6 +28,7 @@ This repo is a collection of AWESOME things about machine teaching, including pa
 
 # Lectures and Tutorials
 - Machine Teaching for Human Learners [Material](http://www.yisongyue.com/talks/machine_teaching.pdf)
+- Microsoft machine teaching group [page](https://www.microsoft.com/en-us/research/group/machine-teaching-group/)
 
 # Application
 - Species names [Link](https://www.teaching-biodiversity.cc/)
