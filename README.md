@@ -16,6 +16,7 @@ This repo is a collection of AWESOME things about machine teaching, including pa
 
 ## Machine teaching on computer vision
 - Teaching Categories to Human Learners with Visual Explanations [paper](https://arxiv.org/abs/1802.06924) [code](https://github.com/macaodha/explain_teach)
+- Becoming the Expert-Interactive Multi-Class Machine Teaching [project page](http://visual.cs.ucl.ac.uk/pubs/interactiveMachineTeaching/)
 
 ## Teaching algorithms
 - Near-Optimally Teaching the Crowd to Classify [paper](https://arxiv.org/abs/1402.2092)
