@@ -24,7 +24,7 @@ This repo is a collection of AWESOME things about machine teaching, including pa
 - Understanding the Role of Adaptivity in Machine Teaching: The Case of Version Space Learners [paper](https://papers.nips.cc/paper/7421-understanding-the-role-of-adaptivity-in-machine-teaching-the-case-of-version-space-learners.pdf)
 - Near-Optimal Machine Teaching via Explanatory Teaching Sets [paper](http://proceedings.mlr.press/v84/chen18g.html)
 - Active Teaching for Inductive Learners [paper](https://pdfs.semanticscholar.org/9d6d/5b69d60725b27b8c450b5bbeef8cfc81f2e2.pdf)
-
+- Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners [paper](https://arxiv.org/pdf/1804.06481.pdf)
 
 # Lectures and Tutorials
 - Machine Teaching for Human Learners [Material](http://www.yisongyue.com/talks/machine_teaching.pdf)
